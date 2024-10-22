@@ -3,7 +3,7 @@ import './App.css'
 import Blogs from './components/Blogs'
 import Bookmarks from './components/bookMarks/Bookmarks'
 import Header from './components/header/Header'
-import { FcReadingEbook } from 'react-icons/fc'
+
 
 function App() {
   const [bookmarks, setBookmarks] = useState([]);
