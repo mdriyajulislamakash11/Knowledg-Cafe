@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "cover": "https://images.unsplash.com/photo-1506765515384-028b60a970df",
+      "title": "The Rise of JavaScript Frameworks",
+      "author": "Riyajul Islam",
+      "author_img": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
+      "posted_date": "2024-02-15",
+      "reading_time": 5,
+      "hashtags": ["JavaScript", "WebDevelopment", "Frameworks"]
+    },
+    {
+      "id": 2,
+      "cover": "https://images.unsplash.com/photo-1542089363-530b2f60a42e",
+      "title": "Understanding CSS Flexbox",
+      "author": "Rahim Uddin",
+      "author_img": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61",
+      "posted_date": "2024-03-01",
+      "reading_time": 8,
+      "hashtags": ["CSS", "Flexbox", "ResponsiveDesign"]
+    },
+    {
+      "id": 3,
+      "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "title": "Why React is Popular Among Developers",
+      "author": "Karim Hossain",
+      "author_img": "https://images.unsplash.com/photo-1502767089025-6572583495b9",
+      "posted_date": "2024-01-25",
+      "reading_time": 6,
+      "hashtags": ["React", "JavaScript", "Frontend"]
+    },
+    {
+      "id": 4,
+      "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "title": "Mastering Tailwind CSS",
+      "author": "Farhana Akter",
+      "author_img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde",
+      "posted_date": "2024-04-10",
+      "reading_time": 7,
+      "hashtags": ["TailwindCSS", "CSS", "Design"]
+    },
+    {
+      "id": 5,
+      "cover": "https://images.unsplash.com/photo-1508923567004-3a6b8004f3d5",
+      "title": "The Future of Web Performance Optimization",
+      "author": "Shahidul Alam",
+      "author_img": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+      "posted_date": "2024-03-15",
+      "reading_time": 10,
+      "hashtags": ["WebPerformance", "Optimization", "BestPractices"]
+    },
+    {
+      "id": 6,
+      "cover": "https://images.unsplash.com/photo-1517430816045-df4b7de38e45",
+      "title": "Exploring Node.js for Backend Development",
+      "author": "Nusrat Jahan",
+      "author_img": "https://images.unsplash.com/photo-1554151228-14d9def656e4",
+      "posted_date": "2024-04-05",
+      "reading_time": 9,
+      "hashtags": ["NodeJS", "Backend", "JavaScript"]
+    },
+    {
+      "id": 7,
+      "cover": "https://images.unsplash.com/photo-1517511620798-cec17d428bc0",
+      "title": "How to Secure Your Web Application",
+      "author": "Imran Ahmed",
+      "author_img": "https://images.unsplash.com/photo-1546525848-3ce03ca516f6",
+      "posted_date": "2024-05-20",
+      "reading_time": 12,
+      "hashtags": ["WebSecurity", "OWASP", "CyberSecurity"]
+    },
+    {
+      "id": 8,
+      "cover": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe",
+      "title": "Progressive Web Apps: The Future of Mobile",
+      "author": "Sumaiya Khan",
+      "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe",
+      "posted_date": "2024-03-30",
+      "reading_time": 7,
+      "hashtags": ["PWA", "MobileDevelopment", "WebApps"]
+    },
+    {
+      "id": 9,
+      "cover": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
+      "title": "Introduction to TypeScript",
+      "author": "Rashed Chowdhury",
+      "author_img": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79",
+      "posted_date": "2024-02-28",
+      "reading_time": 6,
+      "hashtags": ["TypeScript", "JavaScript", "Programming"]
+    },
+    {
+      "id": 10,
+      "cover": "https://images.unsplash.com/photo-1504691342899-c927e312a42f",
+      "title": "Improving Web Accessibility",
+      "author": "Mehnaz Begum",
+      "author_img": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1",
+      "posted_date": "2024-01-18",
+      "reading_time": 8,
+      "hashtags": ["Accessibility", "WebDevelopment", "InclusiveDesign"]
+    }
+  ]
+  
