@@ -48,56 +48,7 @@
       "posted_date": "2024-03-15",
       "reading_time": 10,
       "hashtags": ["WebPerformance", "Optimization", "BestPractices"]
-    },
-    {
-      "id": 6,
-      "cover": "https://images.unsplash.com/photo-1517430816045-df4b7de38e45",
-      "title": "Exploring Node.js for Backend Development",
-      "author": "Nusrat Jahan",
-      "author_img": "https://images.unsplash.com/photo-1554151228-14d9def656e4",
-      "posted_date": "2024-04-05",
-      "reading_time": 9,
-      "hashtags": ["NodeJS", "Backend", "JavaScript"]
-    },
-    {
-      "id": 7,
-      "cover": "https://images.unsplash.com/photo-1517511620798-cec17d428bc0",
-      "title": "How to Secure Your Web Application",
-      "author": "Imran Ahmed",
-      "author_img": "https://images.unsplash.com/photo-1546525848-3ce03ca516f6",
-      "posted_date": "2024-05-20",
-      "reading_time": 12,
-      "hashtags": ["WebSecurity", "OWASP", "CyberSecurity"]
-    },
-    {
-      "id": 8,
-      "cover": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe",
-      "title": "Progressive Web Apps: The Future of Mobile",
-      "author": "Sumaiya Khan",
-      "author_img": "https://images.unsplash.com/photo-1502685104226-ee32379fefbe",
-      "posted_date": "2024-03-30",
-      "reading_time": 7,
-      "hashtags": ["PWA", "MobileDevelopment", "WebApps"]
-    },
-    {
-      "id": 9,
-      "cover": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d",
-      "title": "Introduction to TypeScript",
-      "author": "Rashed Chowdhury",
-      "author_img": "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79",
-      "posted_date": "2024-02-28",
-      "reading_time": 6,
-      "hashtags": ["TypeScript", "JavaScript", "Programming"]
-    },
-    {
-      "id": 10,
-      "cover": "https://images.unsplash.com/photo-1504691342899-c927e312a42f",
-      "title": "Improving Web Accessibility",
-      "author": "Mehnaz Begum",
-      "author_img": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1",
-      "posted_date": "2024-01-18",
-      "reading_time": 8,
-      "hashtags": ["Accessibility", "WebDevelopment", "InclusiveDesign"]
     }
+    
   ]
   
